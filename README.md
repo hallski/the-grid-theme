@@ -2,6 +2,10 @@ Tron Legacy inspired color theme.
 
 ![screenshot](https://raw.github.com/mhallendal/tron-legacy-theme/master/screenshot.png)
 
+Themes for:
+* AppCode 2
+* Xcode 4
+
 Colors used:
 * Foreground/Line number: rgb(204,255,250), #ccfffa
 * Background: rgb(11,16,24), #0b1018
