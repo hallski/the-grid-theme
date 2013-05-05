@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="The Grid" version="124" parent_scheme="Default">
-  <option name="LINE_SPACING" value="0.99" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Envy Code R" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="ba5620" />
     <option name="ANNOTATIONS_COLOR" value="7161a" />
@@ -47,16 +52,24 @@
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e35b00" />
+        <option name="EFFECT_COLOR" value="d85f00" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ecf0c1" />
+        <option name="FOREGROUND" value="e0ffff" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9ec4" />
+        <option name="FOREGROUND" value="83fffd" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="5bb6d9" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -185,6 +198,21 @@
       <value>
         <option name="FOREGROUND" value="e3001d" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d85f00" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="294b54" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffb92b" />
       </value>
     </option>
     <option name="MACRONAME">
