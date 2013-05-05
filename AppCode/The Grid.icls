@@ -51,24 +51,23 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e35b00" />
-        <option name="EFFECT_COLOR" value="d85f00" />
+        <option name="FOREGROUND" value="d85f00" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e0ffff" />
+        <option name="FOREGROUND" value="ccfffa" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="83fffd" />
+        <option name="FOREGROUND" value="5bb6d9" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="5bb6d9" />
+        <option name="FOREGROUND" value="ffb92b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
