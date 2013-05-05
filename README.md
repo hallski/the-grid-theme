@@ -4,8 +4,8 @@ Tron Legacy inspired color theme.
 
 Colors used:
 * Background: rgb(11,16,24), #0b1018
-* Foreground: rgb(224,255,255), #e0ffff
-* Gutter/Current row: rgb(21,41,62), #15293e
+* Foreground/Line number: rgb(204,255,250), #ccfffa
+* Gutter/Current row: rgb(21,34,45), #15222d
 * Blue: rgb(91,182,217), #5bb6d9
 * Yellow: rgb(255,185,43), #ffb92b
 * Orange: rgb(216,95,0), #d85f00
