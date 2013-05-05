@@ -26,8 +26,8 @@
     <option name="NOTIFICATION_BACKGROUND" value="a385c" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="e0ffff" />
     <option name="RIGHT_MARGIN_COLOR" value="15222d" />
-    <option name="SELECTION_BACKGROUND" value="5bb6d9" />
-    <option name="SELECTION_FOREGROUND" value="d262e" />
+    <option name="SELECTION_BACKGROUND" value="132d3c" />
+    <option name="SELECTION_FOREGROUND" value="ccfffa" />
   </colors>
   <attributes>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -162,9 +162,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="499c8e" />
+        <option name="EFFECT_COLOR" value="ffb92b" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="499c8e" />
+        <option name="ERROR_STRIPE_COLOR" value="ffb92b" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -205,6 +205,12 @@
       <value>
         <option name="FOREGROUND" value="e3001d" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d85f00" />
+        <option name="EFFECT_COLOR" value="d85f00" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -382,8 +388,9 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7171b" />
-        <option name="BACKGROUND" value="83fffd" />
+        <option name="FOREGROUND" value="d85f00" />
+        <option name="EFFECT_COLOR" value="d85f00" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="STRUCT_LIKE">
@@ -405,18 +412,19 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7171b" />
-        <option name="BACKGROUND" value="83fffd" />
-        <option name="ERROR_STRIPE_COLOR" value="83fffd" />
+        <option name="FOREGROUND" value="d85f00" />
+        <option name="EFFECT_COLOR" value="d85f00" />
+        <option name="EFFECT_TYPE" value="4" />
+        <option name="ERROR_STRIPE_COLOR" value="d85f00" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5bb6d9" />
+        <option name="FOREGROUND" value="ffb92b" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="5bb6d9" />
+        <option name="EFFECT_COLOR" value="ffb92b" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="5bb6d9" />
+        <option name="ERROR_STRIPE_COLOR" value="ffb92b" />
       </value>
     </option>
     <option name="TYPEDEF">
@@ -440,15 +448,16 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="c03f1c" />
+        <option name="EFFECT_COLOR" value="ffb92b" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="c03f1c" />
+        <option name="ERROR_STRIPE_COLOR" value="ffb92b" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7171b" />
-        <option name="BACKGROUND" value="83fffd" />
+        <option name="FOREGROUND" value="d85f00" />
+        <option name="EFFECT_COLOR" value="d85f00" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
